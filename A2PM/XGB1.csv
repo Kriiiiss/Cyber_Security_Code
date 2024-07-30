@@ -1,0 +1,520 @@
+Metric,original score
+Accuracy,0.9271087693138934
+Weighted Precision,0.8595306701387221
+Weighted Recall,0.9271087693138934
+Weighted F1 Score,0.892041678005274
+Metric,original score
+Accuracy,0.9271087693138934
+Macro Precision,0.18542175386277868
+Macro Recall,0.2
+Macro F1 Score,0.19243517212450253
+Metric,full A2PM Attack
+Accuracy,0.9271095874489141
+Weighted Precision,0.8595321871396957
+Weighted Recall,0.9271095874489141
+Weighted F1 Score,0.8920428736775003
+Metric,full A2PM Attack
+Accuracy,0.9271095874489141
+Macro Precision,0.18542191748978282
+Macro Recall,0.2
+Macro F1 Score,0.1924352602440656
+Metric,no Adv Training
+Accuracy,0.8828036282247614
+Weighted Precision,0.7967521083765855
+Weighted Recall,0.8828036282247614
+Weighted F1 Score,0.8351795376695548
+Metric,no Adv Training
+Accuracy,0.8828036282247614
+Macro Precision,0.8128034456402053
+Macro Recall,0.6563038229556203
+Macro F1 Score,0.720278101262192
+Metric,w/ Adv Training
+Accuracy,1.0
+Weighted Precision,1.0
+Weighted Recall,1.0
+Weighted F1 Score,1.0
+Metric,w/ Adv Training
+Accuracy,1.0
+Macro Precision,1.0
+Macro Recall,1.0
+Macro F1 Score,1.0
+Metric,w/ Adv Training
+Accuracy,1.0
+Weighted Precision,1.0
+Weighted Recall,1.0
+Weighted F1 Score,1.0
+Metric,w/ Adv Training
+Accuracy,1.0
+Macro Precision,1.0
+Macro Recall,1.0
+Macro F1 Score,1.0
+Metric,0.01:full A2PM Attack
+Accuracy,0.9271095874489141
+Weighted Precision,0.8595321871396957
+Weighted Recall,0.9271095874489141
+Weighted F1 Score,0.8920428736775003
+Metric,0.01:full A2PM Attack
+Accuracy,0.9271095874489141
+Macro Precision,0.18542191748978282
+Macro Recall,0.2
+Macro F1 Score,0.1924352602440656
+Metric,0.01:no Adv Training
+Accuracy,0.8828036282247614
+Weighted Precision,0.7967521083765855
+Weighted Recall,0.8828036282247614
+Weighted F1 Score,0.8351795376695548
+Metric,0.01:no Adv Training
+Accuracy,0.8828036282247614
+Macro Precision,0.8128034456402053
+Macro Recall,0.6563038229556203
+Macro F1 Score,0.720278101262192
+Metric,0.01:w/ Adv Training
+Accuracy,1.0
+Weighted Precision,1.0
+Weighted Recall,1.0
+Weighted F1 Score,1.0
+Metric,0.01:w/ Adv Training
+Accuracy,1.0
+Macro Precision,1.0
+Macro Recall,1.0
+Macro F1 Score,1.0
+Metric,0.05:full A2PM Attack
+Accuracy,0.9271095874489141
+Weighted Precision,0.8595321871396957
+Weighted Recall,0.9271095874489141
+Weighted F1 Score,0.8920428736775003
+Metric,0.05:full A2PM Attack
+Accuracy,0.9271095874489141
+Macro Precision,0.18542191748978282
+Macro Recall,0.2
+Macro F1 Score,0.1924352602440656
+Metric,0.05:no Adv Training
+Accuracy,0.8828036282247614
+Weighted Precision,0.7967521083765855
+Weighted Recall,0.8828036282247614
+Weighted F1 Score,0.8351795376695548
+Metric,0.05:no Adv Training
+Accuracy,0.8828036282247614
+Macro Precision,0.8128034456402053
+Macro Recall,0.6563038229556203
+Macro F1 Score,0.720278101262192
+Metric,0.05:w/ Adv Training
+Accuracy,0.9999952880197903
+Weighted Precision,0.9999954088397957
+Weighted Recall,0.9999952880197903
+Weighted F1 Score,0.9999953185618256
+Metric,0.05:w/ Adv Training
+Accuracy,0.9999952880197903
+Macro Precision,0.9957264957264957
+Macro Recall,0.9999921848135296
+Macro F1 Score,0.9978315901506448
+Metric,0.1:full A2PM Attack
+Accuracy,0.9271095874489141
+Weighted Precision,0.8595321871396957
+Weighted Recall,0.9271095874489141
+Weighted F1 Score,0.8920428736775003
+Metric,0.1:full A2PM Attack
+Accuracy,0.9271095874489141
+Macro Precision,0.18542191748978282
+Macro Recall,0.2
+Macro F1 Score,0.1924352602440656
+Metric,0.1:no Adv Training
+Accuracy,0.8828036282247614
+Weighted Precision,0.7967521083765855
+Weighted Recall,0.8828036282247614
+Weighted F1 Score,0.8351795376695548
+Metric,0.1:no Adv Training
+Accuracy,0.8828036282247614
+Macro Precision,0.8128034456402053
+Macro Recall,0.6563038229556203
+Macro F1 Score,0.720278101262192
+Metric,0.1:w/ Adv Training
+Accuracy,1.0
+Weighted Precision,1.0
+Weighted Recall,1.0
+Weighted F1 Score,1.0
+Metric,0.1:w/ Adv Training
+Accuracy,1.0
+Macro Precision,1.0
+Macro Recall,1.0
+Macro F1 Score,1.0
+Metric,0.2:full A2PM Attack
+Accuracy,0.9271095874489141
+Weighted Precision,0.8595321871396957
+Weighted Recall,0.9271095874489141
+Weighted F1 Score,0.8920428736775003
+Metric,0.2:full A2PM Attack
+Accuracy,0.9271095874489141
+Macro Precision,0.18542191748978282
+Macro Recall,0.2
+Macro F1 Score,0.1924352602440656
+Metric,0.2:no Adv Training
+Accuracy,0.8828036282247614
+Weighted Precision,0.7967521083765855
+Weighted Recall,0.8828036282247614
+Weighted F1 Score,0.8351795376695548
+Metric,0.2:no Adv Training
+Accuracy,0.8828036282247614
+Macro Precision,0.8128034456402053
+Macro Recall,0.6563038229556203
+Macro F1 Score,0.720278101262192
+Metric,0.2:w/ Adv Training
+Accuracy,1.0
+Weighted Precision,1.0
+Weighted Recall,1.0
+Weighted F1 Score,1.0
+Metric,0.2:w/ Adv Training
+Accuracy,1.0
+Macro Precision,1.0
+Macro Recall,1.0
+Macro F1 Score,1.0
+Metric,0.3:full A2PM Attack
+Accuracy,0.9271095874489141
+Weighted Precision,0.8595321871396957
+Weighted Recall,0.9271095874489141
+Weighted F1 Score,0.8920428736775003
+Metric,0.3:full A2PM Attack
+Accuracy,0.9271095874489141
+Macro Precision,0.18542191748978282
+Macro Recall,0.2
+Macro F1 Score,0.1924352602440656
+Metric,0.3:no Adv Training
+Accuracy,0.8828036282247614
+Weighted Precision,0.7967521083765855
+Weighted Recall,0.8828036282247614
+Weighted F1 Score,0.8351795376695548
+Metric,0.3:no Adv Training
+Accuracy,0.8828036282247614
+Macro Precision,0.8128034456402053
+Macro Recall,0.6563038229556203
+Macro F1 Score,0.720278101262192
+Metric,0.3:w/ Adv Training
+Accuracy,0.9999952880197903
+Weighted Precision,0.9999952916611969
+Weighted Recall,0.9999952880197903
+Weighted F1 Score,0.999995288875255
+Metric,0.3:w/ Adv Training
+Accuracy,0.9999952880197903
+Macro Precision,0.9998712004121586
+Macro Recall,0.9999921848135296
+Macro F1 Score,0.9999316676276067
+Metric,original score
+Accuracy,0.9996356066730051
+Weighted Precision,0.9994960845352477
+Weighted Recall,0.9996356066730051
+Weighted F1 Score,0.9995056750314172
+Metric,original score
+Accuracy,0.9996356066730051
+Macro Precision,0.846502155273879
+Macro Recall,0.6552475024283977
+Macro F1 Score,0.6882368738605876
+Metric,original score
+Accuracy,1.0
+Weighted Precision,1.0
+Weighted Recall,1.0
+Weighted F1 Score,1.0
+Metric,original score
+Accuracy,1.0
+Macro Precision,1.0
+Macro Recall,1.0
+Macro F1 Score,1.0
+Metric,0.01:full A2PM Attack
+Accuracy,0.9999246080403431
+Weighted Precision,0.9999248338117839
+Weighted Recall,0.9999246080403431
+Weighted F1 Score,0.9999207306807798
+Metric,0.01:full A2PM Attack
+Accuracy,0.9999246080403431
+Macro Precision,0.9847444688201314
+Macro Recall,0.9314542340815193
+Macro F1 Score,0.9536029888791809
+Metric,0.01:no Adv Training
+Accuracy,0.8995123100482978
+Weighted Precision,0.8091226971718729
+Weighted Recall,0.8995123100482978
+Weighted F1 Score,0.8519265462197969
+Metric,0.01:no Adv Training
+Accuracy,0.8995123100482978
+Macro Precision,0.7413071889141031
+Macro Recall,0.8333333333333334
+Macro F1 Score,0.7845805846418136
+Metric,0.01:w/ Adv Training
+Accuracy,1.0
+Weighted Precision,1.0
+Weighted Recall,1.0
+Weighted F1 Score,1.0
+Metric,0.01:w/ Adv Training
+Accuracy,1.0
+Macro Precision,1.0
+Macro Recall,1.0
+Macro F1 Score,1.0
+Metric,0.05:full A2PM Attack
+Accuracy,0.9999162311559368
+Weighted Precision,0.9999161276206786
+Weighted Recall,0.9999162311559368
+Weighted F1 Score,0.9999109290323908
+Metric,0.05:full A2PM Attack
+Accuracy,0.9999162311559368
+Macro Precision,0.9876764871418817
+Macro Recall,0.9205495876776764
+Macro F1 Score,0.9482393879367115
+Metric,0.05:no Adv Training
+Accuracy,0.8995123100482978
+Weighted Precision,0.8091269536035679
+Weighted Recall,0.8995123100482978
+Weighted F1 Score,0.8519278004786464
+Metric,0.05:no Adv Training
+Accuracy,0.8995123100482978
+Macro Precision,0.7348933984829854
+Macro Recall,0.8333333333333334
+Macro F1 Score,0.7809508041022948
+Metric,0.05:w/ Adv Training
+Accuracy,0.9999952880197903
+Weighted Precision,0.99999528824073
+Weighted Recall,0.9999952880197903
+Weighted F1 Score,0.9999952880683728
+Metric,0.05:w/ Adv Training
+Accuracy,0.9999952880197903
+Macro Precision,0.9999921851799752
+Macro Recall,0.9999990586197484
+Macro F1 Score,0.9999956218069231
+Metric,0.1:full A2PM Attack
+Accuracy,0.999929843593097
+Weighted Precision,0.9999291151183035
+Weighted Recall,0.999929843593097
+Weighted F1 Score,0.9999253342413223
+Metric,0.1:full A2PM Attack
+Accuracy,0.999929843593097
+Macro Precision,0.9885931595164829
+Macro Recall,0.9309541879772949
+Macro F1 Score,0.9551388371029468
+Metric,0.1:no Adv Training
+Accuracy,0.8995123100482978
+Weighted Precision,0.8091233177108533
+Weighted Recall,0.8995123100482978
+Weighted F1 Score,0.8519267229217775
+Metric,0.1:no Adv Training
+Accuracy,0.8995123100482978
+Macro Precision,0.7556308980113825
+Macro Recall,0.8333333333333334
+Macro F1 Score,0.7924164948689962
+Metric,0.1:w/ Adv Training
+Accuracy,0.9999905760395806
+Weighted Precision,0.9999907005009926
+Weighted Recall,0.9999905760395806
+Weighted F1 Score,0.9999906073265978
+Metric,0.1:w/ Adv Training
+Accuracy,0.9999905760395806
+Macro Precision,0.9955976961386543
+Macro Recall,0.9999843696270593
+Macro F1 Score,0.9977632575950072
+Metric,0.2:full A2PM Attack
+Accuracy,0.9999057600504289
+Weighted Precision,0.9999058362020095
+Weighted Recall,0.9999057600504289
+Weighted F1 Score,0.9998976036085336
+Metric,0.2:full A2PM Attack
+Accuracy,0.9999057600504289
+Macro Precision,0.9919002482392368
+Macro Recall,0.9047546446970497
+Macro F1 Score,0.9392491476379261
+Metric,0.2:no Adv Training
+Accuracy,0.8995123100482978
+Weighted Precision,0.809124310427966
+Weighted Recall,0.8995123100482978
+Weighted F1 Score,0.851927043747738
+Metric,0.2:no Adv Training
+Accuracy,0.8995123100482978
+Macro Precision,0.7252973605912797
+Macro Recall,0.8333333333333334
+Macro F1 Score,0.7751334462147499
+Metric,0.2:w/ Adv Training
+Accuracy,0.9999905760395806
+Weighted Precision,0.9999910472376017
+Weighted Recall,0.9999905760395806
+Weighted F1 Score,0.9999906966386256
+Metric,0.2:w/ Adv Training
+Accuracy,0.9999905760395806
+Macro Precision,0.9916666666666667
+Macro Recall,0.9999843696270593
+Macro F1 Score,0.9957186801735455
+Metric,0.3:full A2PM Attack
+Accuracy,0.9998753938444559
+Weighted Precision,0.9998718931436268
+Weighted Recall,0.9998753938444559
+Weighted F1 Score,0.9998641009339587
+Metric,0.3:full A2PM Attack
+Accuracy,0.9998753938444559
+Macro Precision,0.9763950411585292
+Macro Recall,0.8796765528485542
+Macro F1 Score,0.9176307198690875
+Metric,0.3:no Adv Training
+Accuracy,0.8995123100482978
+Weighted Precision,0.8091244769792394
+Weighted Recall,0.8995123100482978
+Weighted F1 Score,0.8519270909625412
+Metric,0.3:no Adv Training
+Accuracy,0.8995123100482978
+Macro Precision,0.7369482099879519
+Macro Recall,0.8333333333333334
+Macro F1 Score,0.7817945104892167
+Metric,0.3:w/ Adv Training
+Accuracy,0.999985864059371
+Weighted Precision,0.999985985282919
+Weighted Recall,0.999985864059371
+Weighted F1 Score,0.999985894260362
+Metric,0.3:w/ Adv Training
+Accuracy,0.999985864059371
+Macro Precision,0.9957122220848093
+Macro Recall,0.9999765544405889
+Macro F1 Score,0.9978166371423857
+Metric,original score
+Accuracy,1.0
+Weighted Precision,1.0
+Weighted Recall,1.0
+Weighted F1 Score,1.0
+Metric,original score
+Accuracy,1.0
+Macro Precision,1.0
+Macro Recall,1.0
+Macro F1 Score,1.0
+Metric,full A2PM Attack
+Accuracy,0.9999130898242844
+Weighted Precision,0.9999123031688002
+Weighted Recall,0.9999130898242844
+Weighted F1 Score,0.9999083545491683
+Metric,full A2PM Attack
+Accuracy,0.9999130898242844
+Macro Precision,0.9803920052529438
+Macro Recall,0.9218289087848216
+Macro F1 Score,0.9462650772231868
+Metric,no Adv Training
+Accuracy,0.8995123100482978
+Weighted Precision,0.8091238012873109
+Weighted Recall,0.8995123100482978
+Weighted F1 Score,0.8519268576486867
+Metric,no Adv Training
+Accuracy,0.8995123100482978
+Macro Precision,0.7537964486675871
+Macro Recall,0.8333333333333334
+Macro F1 Score,0.7912025682712459
+Metric,w/ Adv Training
+Accuracy,1.0
+Weighted Precision,1.0
+Weighted Recall,1.0
+Weighted F1 Score,1.0
+Metric,w/ Adv Training
+Accuracy,1.0
+Macro Precision,1.0
+Macro Recall,1.0
+Macro F1 Score,1.0
+Metric,0.1:full A2PM Attack
+Accuracy,0.9999413618091557
+Weighted Precision,0.9999408282537612
+Weighted Recall,0.9999413618091557
+Weighted F1 Score,0.9999389857550609
+Metric,0.1:full A2PM Attack
+Accuracy,0.9999413618091557
+Macro Precision,0.9873031175026791
+Macro Recall,0.945342279981206
+Macro F1 Score,0.9639611145388525
+Metric,0.1:10% A2PM Attack
+Accuracy,0.9999413618091557
+Weighted Precision,0.9999408282537612
+Weighted Recall,0.9999413618091557
+Weighted F1 Score,0.9999389857550609
+Metric,0.1:10% A2PM Attack
+Accuracy,0.9999413618091557
+Macro Precision,0.9873031175026791
+Macro Recall,0.945342279981206
+Macro F1 Score,0.9639611145388525
+Metric,0.1:full A2PM Attack
+Accuracy,0.9999465973619097
+Weighted Precision,0.9999466919151206
+Weighted Recall,0.9999465973619097
+Weighted F1 Score,0.9999440981023212
+Metric,0.1:full A2PM Attack
+Accuracy,0.9999465973619097
+Macro Precision,0.9931990199999919
+Macro Recall,0.9480842619397105
+Macro F1 Score,0.9677916628383695
+Metric,0.1:10% A2PM Attack
+Accuracy,0.9999465973619097
+Weighted Precision,0.9999466919151206
+Weighted Recall,0.9999465973619097
+Weighted F1 Score,0.9999440981023212
+Metric,0.1:10% A2PM Attack
+Accuracy,0.9999465973619097
+Macro Precision,0.9931990199999919
+Macro Recall,0.9480842619397105
+Macro F1 Score,0.9677916628383695
+Metric,0.1:full A2PM Attack
+Accuracy,0.9999434560302574
+Weighted Precision,0.9999429229810493
+Weighted Recall,0.9999434560302574
+Weighted F1 Score,0.9999409365327719
+Metric,0.1:full A2PM Attack
+Accuracy,0.9999434560302574
+Macro Precision,0.9891120969796472
+Macro Recall,0.9451857112150728
+Macro F1 Score,0.9646367553297173
+Metric,0.1:10% A2PM Attack
+Accuracy,0.9000000942399594
+Weighted Precision,0.8100003102022564
+Weighted Recall,0.9000000942399594
+Weighted F1 Score,0.8526317561562194
+Metric,0.1:10% A2PM Attack
+Accuracy,0.9000000942399594
+Macro Precision,0.7507908919559328
+Macro Recall,0.8333333333333334
+Macro F1 Score,0.7898836426405328
+Metric,0.1:full A2PM Attack
+Accuracy,0.9999434560302574
+Weighted Precision,0.9999429229810493
+Weighted Recall,0.9999434560302574
+Weighted F1 Score,0.9999409365327719
+Metric,0.1:full A2PM Attack
+Accuracy,0.9999434560302574
+Macro Precision,0.9891120969796472
+Macro Recall,0.9451857112150728
+Macro F1 Score,0.9646367553297173
+Metric,0.1:10% A2PM Attack
+Accuracy,0.9000000942399594
+Weighted Precision,0.8100003102022564
+Weighted Recall,0.9000000942399594
+Weighted F1 Score,0.8526317561562194
+Metric,0.1:10% A2PM Attack
+Accuracy,0.9000000942399594
+Macro Precision,0.7507908919559328
+Macro Recall,0.8333333333333334
+Macro F1 Score,0.7898836426405328
+Metric,0.1:10% A2PM Attack
+Accuracy,0.9000000942399594
+Weighted Precision,0.8100003102022564
+Weighted Recall,0.9000000942399594
+Weighted F1 Score,0.8526317561562194
+Metric,0.1:10% A2PM Attack
+Accuracy,0.9000000942399594
+Macro Precision,0.7507908919559328
+Macro Recall,0.8333333333333334
+Macro F1 Score,0.7898836426405328
+Metric,0.1:10% A2PM Attack
+Accuracy,1.0
+Weighted Precision,1.0
+Weighted Recall,1.0
+Weighted F1 Score,1.0
+Metric,0.1:10% A2PM Attack
+Accuracy,1.0
+Macro Precision,1.0
+Macro Recall,1.0
+Macro F1 Score,1.0
+Metric,0.1:10% A2PM Attack
+Accuracy,0.9999971728012168
+Weighted Precision,0.9999971739613311
+Weighted Recall,0.9999971728012168
+Weighted F1 Score,0.999997161598627
+Metric,0.1:10% A2PM Attack
+Accuracy,0.9999971728012168
+Macro Precision,0.9999179318834633
+Macro Recall,0.9967741935483871
+Macro F1 Score,0.9983329412608717
