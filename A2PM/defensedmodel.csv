@@ -1,0 +1,208 @@
+model,attack_model,epsilon,Accuracy,Macro Precision,Weighted Precision,Macro Recall,Weighted Recall,Macro F1,Weighted F1,TPR,FNR,TNR,FPR
+,,,,,,,,,,,,,
+Metric,DNN_defensed_FGSM_0.01
+Accuracy,0.9998366512672092
+Weighted Precision,0.9998400515351651
+Weighted Recall,0.9998366512672092
+Weighted F1 Score,0.9998235320757507
+Metric,DNN_defensed_FGSM_0.01
+Accuracy,0.9998366512672092
+Macro Precision,0.9955827592951726
+Macro Recall,0.8621816682349216
+Macro F1 Score,0.9142998413149442
+Metric,DNN_defensed_FGSM_0.1
+Accuracy,0.9995602149501787
+Weighted Precision,0.9995610217926315
+Weighted Recall,0.9995602149501787
+Weighted F1 Score,0.999546580488512
+Metric,DNN_defensed_FGSM_0.1
+Accuracy,0.9995602149501787
+Macro Precision,0.9936755482414235
+Macro Recall,0.8566694983713745
+Macro F1 Score,0.9106142007068889
+Metric,DNN_defensed_FGSM_0.2
+Accuracy,0.9867143030663489
+Weighted Precision,0.9916872789002494
+Weighted Recall,0.9867143030663489
+Weighted F1 Score,0.9887850304039333
+Metric,DNN_defensed_FGSM_0.2
+Accuracy,0.9867143030663489
+Macro Precision,0.5350176727816262
+Macro Recall,0.7062522952629429
+Macro F1 Score,0.5707687644313136
+Metric,DNN_defensed_FGSM_0.3
+Accuracy,0.20342781033117907
+Weighted Precision,0.9875701498189027
+Weighted Recall,0.20342781033117907
+Weighted F1 Score,0.3177841283040194
+Metric,DNN_defensed_FGSM_0.3
+Accuracy,0.20342781033117907
+Macro Precision,0.41087042193446877
+Macro Recall,0.44923891720726983
+Macro F1 Score,0.26702124754758383
+Metric,DNN_defensed_FGSM_0.01
+Accuracy,0.9962890518653169
+Weighted Precision,0.9965874570416294
+Weighted Recall,0.9962890518653169
+Weighted F1 Score,0.9963935149160164
+Metric,DNN_defensed_FGSM_0.01
+Accuracy,0.9962890518653169
+Macro Precision,0.9367073664250117
+Macro Recall,0.8181368639688051
+Macro F1 Score,0.8620593048954678
+Metric,DNN_defensed_FGSM_0.1
+Accuracy,0.9976502913052402
+Weighted Precision,0.9975928468072442
+Weighted Recall,0.9976502913052402
+Weighted F1 Score,0.9976026052397686
+Metric,DNN_defensed_FGSM_0.1
+Accuracy,0.9976502913052402
+Macro Precision,0.9021660812629548
+Macro Recall,0.8192468192531891
+Macro F1 Score,0.8514099910306779
+Metric,DNN_defensed_FGSM_0.2
+Accuracy,0.9963602551590974
+Weighted Precision,0.9974260819126021
+Weighted Recall,0.9963602551590974
+Weighted F1 Score,0.996323897357081
+Metric,DNN_defensed_FGSM_0.2
+Accuracy,0.9963602551590974
+Macro Precision,0.7221029277778979
+Macro Recall,0.7259434731243684
+Macro F1 Score,0.6769729681226174
+Metric,DNN_defensed_FGSM_0.3
+Accuracy,0.9912964444425829
+Weighted Precision,0.9921493271771702
+Weighted Recall,0.9912964444425829
+Weighted F1 Score,0.9916480471066308
+Metric,DNN_defensed_FGSM_0.3
+Accuracy,0.9912964444425829
+Macro Precision,0.5200007831926253
+Macro Recall,0.6774249420789001
+Macro F1 Score,0.5421173655636708
+model,attack_model,epsilon,Accuracy,Macro Precision,Weighted Precision,Macro Recall,Weighted Recall,Macro F1,Weighted F1,TPR,FNR,TNR,FPR
+,,,,,,,,,,,,,
+Metric,DNN_defensed_BIM_0.01
+Accuracy,0.9967790980636893
+Weighted Precision,0.9969298511731854
+Weighted Recall,0.9967790980636893
+Weighted F1 Score,0.9963556277392973
+Metric,DNN_defensed_BIM_0.01
+Accuracy,0.9967790980636893
+Macro Precision,0.9906390748630554
+Macro Recall,0.8015883388456204
+Macro F1 Score,0.873920887126733
+Metric,DNN_defensed_BIM_0.1
+Accuracy,0.9974953194305411
+Weighted Precision,0.997582407424899
+Weighted Recall,0.9974953194305411
+Weighted F1 Score,0.9972580557495759
+Metric,DNN_defensed_BIM_0.1
+Accuracy,0.9974953194305411
+Macro Precision,0.9922967163681055
+Macro Recall,0.8223407660300864
+Macro F1 Score,0.891071984334521
+Metric,DNN_defensed_BIM_0.2
+Accuracy,0.9975874648695514
+Weighted Precision,0.9976479645766412
+Weighted Recall,0.9975874648695514
+Weighted F1 Score,0.9973696517975595
+Metric,DNN_defensed_BIM_0.2
+Accuracy,0.9975874648695514
+Macro Precision,0.9910663070344455
+Macro Recall,0.7869705537181265
+Macro F1 Score,0.8655471451745795
+Metric,DNN_defensed_BIM_0.3
+Accuracy,0.9981905986521635
+Weighted Precision,0.9982121561858533
+Weighted Recall,0.9981905986521635
+Weighted F1 Score,0.9980731567841981
+Metric,DNN_defensed_BIM_0.3
+Accuracy,0.9981905986521635
+Macro Precision,0.9585974994178329
+Macro Recall,0.8044462818734663
+Macro F1 Score,0.8681065392734022
+model,attack_model,epsilon,Accuracy,Macro Precision,Weighted Precision,Macro Recall,Weighted Recall,Macro F1,Weighted F1,TPR,FNR,TNR,FPR
+,,,,,,,,,,,,,
+model,attack_model,epsilon,Accuracy,Macro Precision,Weighted Precision,Macro Recall,Weighted Recall,Macro F1,Weighted F1,TPR,FNR,TNR,FPR
+,,,,,,,,,,,,,
+Metric,DNN_defensed_PGD_0.01
+Accuracy,0.9928252210443429
+Weighted Precision,0.9864541776115733
+Weighted Recall,0.9928252210443429
+Weighted F1 Score,0.9894583423016019
+Metric,DNN_defensed_PGD_0.01
+Accuracy,0.9928252210443429
+Macro Precision,0.5802808794750777
+Macro Recall,0.5115384615384615
+Macro F1 Score,0.5328390577146946
+Metric,DNN_defensed_PGD_0.1
+Accuracy,0.9927037566020113
+Weighted Precision,0.9861378502723036
+Weighted Recall,0.9927037566020113
+Weighted F1 Score,0.9892478387500907
+Metric,DNN_defensed_PGD_0.1
+Accuracy,0.9927037566020113
+Macro Precision,0.37998046313853934
+Macro Recall,0.4
+Macro F1 Score,0.38946285990805707
+Metric,DNN_defensed_PGD_0.2
+Accuracy,0.9928461631895725
+Weighted Precision,0.9864711986288993
+Weighted Recall,0.9928461631895725
+Weighted F1 Score,0.9894840152901264
+Metric,DNN_defensed_PGD_0.2
+Accuracy,0.9928461631895725
+Macro Precision,0.5803327767862283
+Macro Recall,0.5307692307692308
+Macro F1 Score,0.5477974216533243
+Metric,DNN_defensed_PGD_0.3
+Accuracy,0.9928335979024348
+Weighted Precision,0.9864700843211226
+Weighted Recall,0.9928335979024348
+Weighted F1 Score,0.9894777488770811
+Metric,DNN_defensed_PGD_0.3
+Accuracy,0.9928335979024348
+Macro Precision,0.5803293792468042
+Macro Recall,0.5307309190394561
+Macro F1 Score,0.5477783152755216
+Metric,DNN_defensed_DF_0.01
+Accuracy,0.9271087693138934
+Weighted Precision,0.8595306701387221
+Weighted Recall,0.9271087693138934
+Weighted F1 Score,0.892041678005274
+Metric,DNN_defensed_DF_0.01
+Accuracy,0.9271087693138934
+Macro Precision,0.18542175386277868
+Macro Recall,0.2
+Macro F1 Score,0.19243517212450253
+Metric,DNN_defensed_DF_0.1
+Accuracy,0.9271087693138934
+Weighted Precision,0.8595306701387221
+Weighted Recall,0.9271087693138934
+Weighted F1 Score,0.892041678005274
+Metric,DNN_defensed_DF_0.1
+Accuracy,0.9271087693138934
+Macro Precision,0.18542175386277868
+Macro Recall,0.2
+Macro F1 Score,0.19243517212450253
+Metric,DNN_defensed_DF_0.2
+Accuracy,0.9271087693138934
+Weighted Precision,0.8595306701387221
+Weighted Recall,0.9271087693138934
+Weighted F1 Score,0.892041678005274
+Metric,DNN_defensed_DF_0.2
+Accuracy,0.9271087693138934
+Macro Precision,0.18542175386277868
+Macro Recall,0.2
+Macro F1 Score,0.19243517212450253
+Metric,DNN_defensed_DF_0.3
+Accuracy,0.9271087693138934
+Weighted Precision,0.8595306701387221
+Weighted Recall,0.9271087693138934
+Weighted F1 Score,0.892041678005274
+Metric,DNN_defensed_DF_0.3
+Accuracy,0.9271087693138934
+Macro Precision,0.18542175386277868
+Macro Recall,0.2
+Macro F1 Score,0.19243517212450253

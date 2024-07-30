@@ -1,0 +1,150 @@
+Metric,0.01_origin
+Accuracy,0.9999916231419081
+Weighted Precision,0.9999920039081851
+Weighted Recall,0.9999916231419081
+Weighted F1 Score,0.9999916384211751
+Metric,0.01_origin
+Accuracy,0.9999916231419081
+Macro Precision,0.990909090909091
+Macro Recall,0.9923076923076923
+Macro F1 Score,0.9914272685818514
+Metric,0.01_test attack dataset
+Accuracy,0.9999476445272825
+Weighted Precision,0.999947667811866
+Weighted Recall,0.9999476445272825
+Weighted F1 Score,0.999947299292566
+Metric,0.01_test attack dataset
+Accuracy,0.9999476445272825
+Macro Precision,0.9997159977803264
+Macro Recall,0.9826803644773549
+Macro F1 Score,0.9908143701810644
+Metric,0.01_defensed model
+Accuracy,1.0
+Weighted Precision,1.0
+Weighted Recall,1.0
+Weighted F1 Score,1.0
+Metric,0.01_defensed model
+Accuracy,1.0
+Macro Precision,1.0
+Macro Recall,1.0
+Macro F1 Score,1.0
+Metric,0.05_origin
+Accuracy,0.9999916231419081
+Weighted Precision,0.9999920039081851
+Weighted Recall,0.9999916231419081
+Weighted F1 Score,0.9999916384211751
+Metric,0.05_origin
+Accuracy,0.9999916231419081
+Macro Precision,0.990909090909091
+Macro Recall,0.9923076923076923
+Macro F1 Score,0.9914272685818514
+Metric,0.05_test attack dataset
+Accuracy,0.9999947644527283
+Weighted Precision,0.9999947648708362
+Weighted Recall,0.9999947644527283
+Weighted F1 Score,0.9999947266185112
+Metric,0.05_test attack dataset
+Accuracy,0.9999947644527283
+Macro Precision,0.9999840281105253
+Macro Recall,0.9942857142857143
+Macro F1 Score,0.9970934630117357
+Metric,0.05_defensed model
+Accuracy,1.0
+Weighted Precision,1.0
+Weighted Recall,1.0
+Weighted F1 Score,1.0
+Metric,0.05_defensed model
+Accuracy,1.0
+Macro Precision,1.0
+Macro Recall,1.0
+Macro F1 Score,1.0
+Metric,0.1_origin
+Accuracy,0.9999916231419081
+Weighted Precision,0.9999920039081851
+Weighted Recall,0.9999916231419081
+Weighted F1 Score,0.9999916384211751
+Metric,0.1_origin
+Accuracy,0.9999916231419081
+Macro Precision,0.990909090909091
+Macro Recall,0.9923076923076923
+Macro F1 Score,0.9914272685818514
+Metric,0.1_test attack dataset
+Accuracy,0.9999424089800106
+Weighted Precision,0.9999531184720836
+Weighted Recall,0.9999424089800106
+Weighted F1 Score,0.9999456800740532
+Metric,0.1_test attack dataset
+Accuracy,0.9999424089800106
+Macro Precision,0.95452948265598
+Macro Recall,0.9938123325243045
+Macro F1 Score,0.971906950360023
+Metric,0.1_defensed model
+Accuracy,1.0
+Weighted Precision,1.0
+Weighted Recall,1.0
+Weighted F1 Score,1.0
+Metric,0.1_defensed model
+Accuracy,1.0
+Macro Precision,1.0
+Macro Recall,1.0
+Macro F1 Score,1.0
+Metric,0.2_origin
+Accuracy,0.9999916231419081
+Weighted Precision,0.9999920039081851
+Weighted Recall,0.9999916231419081
+Weighted F1 Score,0.9999916384211751
+Metric,0.2_origin
+Accuracy,0.9999916231419081
+Macro Precision,0.990909090909091
+Macro Recall,0.9923076923076923
+Macro F1 Score,0.9914272685818514
+Metric,0.2_test attack dataset
+Accuracy,0.9999842933581847
+Weighted Precision,0.999984297120555
+Weighted Recall,0.9999842933581847
+Weighted F1 Score,0.9999839426576553
+Metric,0.2_test attack dataset
+Accuracy,0.9999842933581847
+Macro Precision,0.999952091983392
+Macro Recall,0.9828571428571429
+Macro F1 Score,0.9910208192417826
+Metric,0.2_defensed model
+Accuracy,1.0
+Weighted Precision,1.0
+Weighted Recall,1.0
+Weighted F1 Score,1.0
+Metric,0.2_defensed model
+Accuracy,1.0
+Macro Precision,1.0
+Macro Recall,1.0
+Macro F1 Score,1.0
+Metric,0.3_origin
+Accuracy,0.9999916231419081
+Weighted Precision,0.9999920039081851
+Weighted Recall,0.9999916231419081
+Weighted F1 Score,0.9999916384211751
+Metric,0.3_origin
+Accuracy,0.9999916231419081
+Macro Precision,0.990909090909091
+Macro Recall,0.9923076923076923
+Macro F1 Score,0.9914272685818514
+Metric,0.3_test attack dataset
+Accuracy,0.9998586402236626
+Weighted Precision,0.9998582450681003
+Weighted Recall,0.9998586402236626
+Weighted F1 Score,0.9998579559358277
+Metric,0.3_test attack dataset
+Accuracy,0.9998586402236626
+Macro Precision,0.9761038790516207
+Macro Recall,0.964130465148673
+Macro F1 Score,0.9700456341375595
+Metric,0.3_defensed model
+Accuracy,1.0
+Weighted Precision,1.0
+Weighted Recall,1.0
+Weighted F1 Score,1.0
+Metric,0.3_defensed model
+Accuracy,1.0
+Macro Precision,1.0
+Macro Recall,1.0
+Macro F1 Score,1.0

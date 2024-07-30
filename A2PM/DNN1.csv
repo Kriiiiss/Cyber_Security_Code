@@ -1,0 +1,16 @@
+Metric,original score
+Accuracy,0.9999455504224031
+Weighted Precision,0.999947896978215
+Weighted Recall,0.9999455504224031
+Weighted F1 Score,0.9999452814008606
+Macro Precision,0.9652158500985898
+Macro Recall,0.9663847329438704
+Macro F1 Score,0.9643393457978362
+Metric,original score
+Accuracy,0.9998911008448061
+Weighted Precision,0.9998918700672321
+Weighted Recall,0.9998911008448061
+Weighted F1 Score,0.9998913010771628
+Macro Precision,0.976155262079681
+Macro Recall,0.978654109048809
+Macro F1 Score,0.9773566078256948
